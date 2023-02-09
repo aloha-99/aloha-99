@@ -1,4 +1,14 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=aloha-99%20Github&fontSize=50&animation=twinkling&fontAlign=70)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=aloha-99 GitHub&fontSize=90" />
+
+<a href="https://www.instagram.com/alo_ha.99/" target="_blank"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aloha-99)](https://github.com/ryo-ma/github-profile-trophy)
+
+![aloha-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloha-99&theme=buefy&show_icons=true)
+[![aloha-99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aloha-99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/aloha-99)
 
 <!--
 **aloha-99/aloha-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
