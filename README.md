@@ -22,7 +22,7 @@ jeewon1202@naver.com <br>
 
 
 ## Projects
-✨ TWONE <https://github.com/ed-ys-jin/twone/> <br>
+✨ TWONE <https://github.com/aloha-99/Twone/> <br>
 ✨ SimpleWord <https://github.com/aloha-99/SimpleWord/> <br>
 ✨ UsWayTrip <https://github.com/aloha-99/UsWayTrip/> <br>
 
